@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @KaelVNode
-- 👀 I’m interested in node tetster
-- 🌱 I’m currently learning 
-- 📫 How to reach me ...
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h1> G I T H U B  S T A T S </h1>
+  <hr>
+  </div>
+</div>
 
-<!---
-KaelVNode/KaelVNode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img align="top" width=400" src="https://github-readme-stats.vercel.app/api?username=aidilfahmi&show_icons=true&theme=nightowl">
+<br />
+<br />
+    <img align="top" width=400" src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfahmi&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D">
+<br />
+  </div>
+</div>
